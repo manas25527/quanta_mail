@@ -80,3 +80,6 @@ pqc_project.zip
 
 # Generated output directories
 graphify-out/
+
+# Ignore manas25527 Pull request markdown detail files
+PR_DESCRIPTION.md
